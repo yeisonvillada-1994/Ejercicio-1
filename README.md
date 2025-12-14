@@ -1,4 +1,4 @@
-# 🐢 Ejercicio 1 Mini Turtle
+# 🐢 Ejercicio 1 - Mini Turtle
 
 ## 📌 Descripción general
 
