@@ -15,7 +15,6 @@ El programa dibuja diferentes formas similares a una escalera usando caracteres 
 * Simula movimientos horizontales y verticales en la consola.
 * Dibuja figuras combinando dichos movimientos.
 
-Todo el dibujo se realiza únicamente con texto, sin usar gráficos ni librerías visuales complejas.
 
 ---
 
